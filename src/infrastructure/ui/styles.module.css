@@ -1,0 +1,39 @@
+.navbar {
+    background-color: lightgray;
+    height: 56px;
+    width: 100%;
+    text-align:center;
+  }
+  .navbar img{
+    float:left;
+  }
+  .navbar ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar li {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+  }
+  
+  .navbar li a {
+    text-decoration: none;
+    padding: 15px;
+    color: #e25822;
+    line-height: 55px;
+  }
+
+  .image{
+    left: 90px;
+top: 60px;
+
+  }
+
+ 
+  #nav-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
